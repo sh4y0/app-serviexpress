@@ -1,0 +1,80 @@
+{
+  "project_info": {
+    "project_number": "615185227525",
+    "firebase_url": "https://proyectofastwork-default-rtdb.firebaseio.com",
+    "project_id": "proyectofastwork",
+    "storage_bucket": "proyectofastwork.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615185227525:android:87081169c4b0ea54e3616c",
+        "android_client_info": {
+          "package_name": "como.firebase.hackaton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615185227525-0ku1jojp06qe05sh6rej329uijih7nh8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "como.firebase.hackaton",
+            "certificate_hash": "0211c54c94705437009d94819cb74c0f38ffeffd"
+          }
+        },
+        {
+          "client_id": "615185227525-83v2mp59ou61uvslhahdo0rjrfcv6rm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "como.firebase.hackaton",
+            "certificate_hash": "24f7996eb698e6d98c03af34e608aa83daed4310"
+          }
+        },
+        {
+          "client_id": "615185227525-glp2mm5iqk4l23cj65987b9oh5tvq53a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "como.firebase.hackaton",
+            "certificate_hash": "89794910fa076d5020c5b18107c6675edafb9535"
+          }
+        },
+        {
+          "client_id": "615185227525-hjh9k2u8lp3cki3hpv2e4f0hs17gloul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "como.firebase.hackaton",
+            "certificate_hash": "618daf3a31ae3dc99895776ee47d35874af940e7"
+          }
+        },
+        {
+          "client_id": "615185227525-i884ug7l7v60b07h0tri9qkj7alak3oc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "como.firebase.hackaton",
+            "certificate_hash": "c9795119226d7aa78df19214e5373960572c5e37"
+          }
+        },
+        {
+          "client_id": "615185227525-5ouhbe7rvuudcklcu71i8ht008qej11i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR-vVIcB8FvxqmUkd5J10Lw1M4mCTZ6aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615185227525-5ouhbe7rvuudcklcu71i8ht008qej11i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
