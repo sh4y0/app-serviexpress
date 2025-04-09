@@ -1,4 +1,22 @@
 <resources>
     <string name="app_name">ServiExpress</string>
     <string name="facebook_app_id">2340511886287430</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="welcome_back">Welcome back you\'ve been missed!</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="forgot_password">Olvidaste tu contraseña?</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="login_with">O inicia sesión con</string>
+    <string name="no_account">¿No tienes una cuenta?</string>
+    <string name="register_now">Registrate Ahora</string>
+    <string name="create_account">Crear una cuenta</string>
+    <string name="name_user">Nombre de Usuario</string>
+    <string name="email">Correo electronico</string>
+    <string name="text_email">Email</string>
+    <string name="registrate">Registrate</string>
+    <string name="o">O</string>
+    <string name="have_account">¿Ya tienes una cuenta?</string>
 </resources>
