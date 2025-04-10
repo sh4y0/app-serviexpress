@@ -2,4 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <!--Colores para el login-->
+    <color name="bg_dark_blue">#161A50</color>
+    <color name="dark_blue_background">#090B19</color>
+    <color name="input_background">#1A2747</color>
+    <color name="primary_blue">#4C6FFF</color>
+    <color name="accent_blue">#252FAE</color>
+    <color name="light_gray">#8A8D9F</color>
 </resources>
